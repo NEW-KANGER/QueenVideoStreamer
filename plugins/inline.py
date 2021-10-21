@@ -30,7 +30,7 @@ buttons = [
                 InlineKeyboardButton("SUPPORT", url="https://t.me/Bakchodi_Squad"),
             ],
             [
-                InlineKeyboardButton(" ❤️ OWNER  ❤️, url="https://github.com/NEW-KANGER"),
+                InlineKeyboardButton(" ❤️ OWNER  ❤️ ", url="https://t.me/Girl_Is_Innocent"),
             ]
          ]
 
